@@ -22,6 +22,11 @@ Authentication uses an installed-app OAuth client (Desktop application) so this 
 can be shared publicly. Each user supplies their own OAuth client file.
 """
 
+__description__ = "Python script for collecting Google Cloud logs via API" 
+__author__ = 'Josh Lemon (SoteriaSec)' 
+__version__ = '0.0.1' 
+__date__ = '2025/12/01'
+
 import argparse
 import json
 import logging
