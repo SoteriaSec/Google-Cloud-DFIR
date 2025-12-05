@@ -12,6 +12,7 @@ This repository currently provides two main approaches for downloading logs from
 
 1. **Google Cloud Log Download via Google Cloud CLI (`gcloud`)**  
    Step-by-step instructions for exporting Cloud Logging data using the `gcloud` command-line interface.
+   > **Note:** This is usually a slower option to compared to the API script below, but it is easier.
 
    👉 [Google Cloud Log Download via Google Cloud CLI](./CLI%20Log%20Collection/README.md)
 
